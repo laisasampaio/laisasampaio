@@ -2,8 +2,6 @@
 
 ---
 
-## 👩‍💻 Sobre mim
-
 🎓 Estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento web.  
 💡 Atualmente focada no back-end com Python (Django), desenvolvendo projetos práticos e evoluindo minhas habilidades.  
 🚀 Em busca da primeira oportunidade na área de tecnologia para aplicar meus conhecimentos e crescer profissionalmente.  
