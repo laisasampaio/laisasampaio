@@ -20,7 +20,7 @@ Tenho interesse em Engenharia de Software, buscando aplicar boas práticas, orga
 ## Competências Técnicas
 
 - 💻 Lógica de programação aplicada à resolução de problemas  
-- ⚙️ Desenvolvimento back-end com Python (Django)  
+- ⚙️ Desenvolvimento Back-End com Python (Django)  
 - 🧩 Construção de algoritmos  
 - 🧹 Organização de código e boas práticas  
 - 🧠 Pensamento computacional  
