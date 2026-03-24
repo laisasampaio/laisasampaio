@@ -1,7 +1,5 @@
 <h1 >👩🏻‍💻 Laisa Sampaio Andrade </h1>
 
----
-
 🎓 Estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento web.  
 💡 Atualmente focada no Back-End com Python (Django), desenvolvendo projetos práticos e evoluindo minhas habilidades.  
 🚀 Em busca da primeira oportunidade na área de Desenvolvimento para aplicar meus conhecimentos e crescer profissionalmente.  
@@ -26,13 +24,11 @@ Tenho interesse em Engenharia de Software, buscando aplicar boas práticas, orga
 - 🧹 Organização de código e boas práticas  
 - 🧠 Pensamento computacional  
 
----
 
 ## 📌 Projetos
 
 - 🚧 Sistema web com Django (em desenvolvimento)
 
----
 
 ## 📬 Entre em contato:
 
