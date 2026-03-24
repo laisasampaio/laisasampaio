@@ -8,8 +8,6 @@
 
 Tenho interesse em Engenharia de Software, buscando aplicar boas práticas, organização de código e conceitos de arquitetura no desenvolvimento das minhas aplicações.
 
----
-
 ## 🚀 Linguagens e Tecnologias
 
 <p>
@@ -19,7 +17,6 @@ Tenho interesse em Engenharia de Software, buscando aplicar boas práticas, orga
 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 </p>
----
 
 ## Competências Técnicas
 
@@ -31,7 +28,7 @@ Tenho interesse em Engenharia de Software, buscando aplicar boas práticas, orga
 
 ---
 
-## Projetos
+## 📌 Projetos
 
 - 🚧 Sistema web com Django (em desenvolvimento)
 
