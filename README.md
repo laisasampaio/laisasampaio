@@ -3,28 +3,22 @@
 ---
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento web.  
-💡 Atualmente focada no back-end com Python (Django), desenvolvendo projetos práticos e evoluindo minhas habilidades.  
-🚀 Em busca da primeira oportunidade na área de tecnologia para aplicar meus conhecimentos e crescer profissionalmente.  
+💡 Atualmente focada no Back-End com Python (Django), desenvolvendo projetos práticos e evoluindo minhas habilidades.  
+🚀 Em busca da primeira oportunidade na área de Desenvolvimento para aplicar meus conhecimentos e crescer profissionalmente.  
 
- Interesse em Engenharia de Software, com foco em boas práticas, organização de código e arquitetura de sistemas.
-<p>
-  <a href="https://linkedin.com/in/laisaandrade">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p>
+Tenho interesse em Engenharia de Software, buscando aplicar boas práticas, organização de código e conceitos de arquitetura no desenvolvimento das minhas aplicações.
+
 ---
 
 ## 🚀 Linguagens e Tecnologias
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-       title="Python" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"
-       title="Django" alt="Django" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-       title="HTML5" alt="HTML5" width="40" height="40"/>
-</p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+</p>
 ---
 
 ## Competências Técnicas
@@ -43,9 +37,21 @@
 
 ---
 
-## 📫 Contato
+## 📬 Entre em contato:
 
-📧 Email: **laisasampaio78@gmail.com**
+<p>
+  <a href="https://linkedin.com/in/laisaandrade">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:laisasampaio78@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://wa.me/71996510192">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
