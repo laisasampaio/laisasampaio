@@ -1,4 +1,4 @@
-👩‍💻 Laisa Sampaio Andrade
+<h1>Laisa Sampaio Andrade</h1>
 
 🎓 Técnica em Informática  
 💻 Estudante de Análise e Desenvolvimento de Sistemas  
@@ -11,18 +11,44 @@ Atualmente, estou focada no desenvolvimento back-end com Python (Django), criand
 
 Tenho interesse em Engenharia de Software e estou em constante evolução, aprofundando conhecimentos em boas práticas, organização de código e arquitetura de sistemas.
 
----
-
-## 🚀 Linguagens e Tecnologias
-
-## 🚀 Linguagens e Tecnologias
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+ <a href="https://linkedin.com/in/laisaandrade">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
 
 ---
 
-## 📫 Contato
+## Linguagens e Tecnologias
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](SEU_LINK_AQUI)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+</p>
+
+---
+
+## Competências Técnicas
+
+- Lógica de programação aplicada à resolução de problemas  
+- Desenvolvimento back-end com Python (Django)  
+- Construção de algoritmos  
+- Organização de código e boas práticas  
+- Pensamento computacional  
+
+---
+##  Projetos
+
+- Sistema web com Django (em desenvolvimento)
+
+---
+
+##  Contato
+
+E-mail: laisasampaio78@gmail.com
+
+---
+
+## Objetivo
+
+Construir uma carreira como Desenvolvedora Back-End, evoluindo continuamente e criando soluções eficientes.
